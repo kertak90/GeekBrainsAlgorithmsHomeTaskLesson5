@@ -1,0 +1,7 @@
+D:\C# projects\Си Алгоритмы\Урок 5\Lesson5\Lesson5\Lesson5\bin\Debug\Lesson5.exe.config
+D:\C# projects\Си Алгоритмы\Урок 5\Lesson5\Lesson5\Lesson5\bin\Debug\Lesson5.exe
+D:\C# projects\Си Алгоритмы\Урок 5\Lesson5\Lesson5\Lesson5\bin\Debug\Lesson5.pdb
+D:\C# projects\Си Алгоритмы\Урок 5\Lesson5\Lesson5\Lesson5\obj\Debug\Lesson5.csprojAssemblyReference.cache
+D:\C# projects\Си Алгоритмы\Урок 5\Lesson5\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
+D:\C# projects\Си Алгоритмы\Урок 5\Lesson5\Lesson5\Lesson5\obj\Debug\Lesson5.exe
+D:\C# projects\Си Алгоритмы\Урок 5\Lesson5\Lesson5\Lesson5\obj\Debug\Lesson5.pdb
