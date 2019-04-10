@@ -133,9 +133,8 @@ namespace Lesson5
             string Example = "(2 + (2 * 2)) или[2 /{ 5 * (4 + 7)}]";
 
             char[] ariphmeticChars = new char[] { '+', '-', '*', '/', '^'};
-            char[] stack = new char[1000];
-
-
+            char[] stack1 = new char[1000];
+            char[] stack2 = new char[1000];
         }
     }
 }
